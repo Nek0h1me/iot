@@ -71,7 +71,7 @@ Cài đặt các thư viện bằng lệnh:
 ## Camera
 <img src="images/cam.png" alt="System Architecture" width="600"/>
 
-## Nhiệt độ
+## Mưa
 <img src="images/mua.png" alt="System Architecture" width="600"/>
 
 
