@@ -32,25 +32,6 @@
 
 --
 
-
-## 🛠️ CÔNG NGHỆ SỬ DỤNG
-
-<div align="center">
-
-### 📡 Phần cứng
-[![ESP32 Cam](https://img.shields.io/badge/ESP8266-yellow?style=for-the-badge&logo=arduino&logoColor=white)]()
-[![MQ-2 sensor](https://img.shields.io/badge/MPU6050-blue?style=for-the-badge)]()
-[![flame sensor](https://img.shields.io/badge/Button-red?style=for-the-badge)]()
-[![DHT11](https://img.shields.io/badge/WiFi-2.4GHz-orange?style=for-the-badge)]()
-
-### 🖥️ Phần mềm
-[![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)]()
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-White?style=for-the-badge&logo=mathplotlib)]()
-[![Flask](https://img.shields.io/badge/Flask-Framework-black?style=for-the-badge&logo=flask)]()
-[![Tensorflow](https://img.shields.io/badge/Tensorflow-orange?style=for-the-badge&logo=Tensorflow)]()
-
-</div>
-
 ## 🛠️ Yêu cầu hệ thống
 
 ### 🔌 Phần cứng
